@@ -20,16 +20,9 @@
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" title="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgresql,html,css,bootstrap,js,nodejs,express,git,github,docker,jenkins" />
   <img src="https://plugins.jetbrains.com/files/21606/screenshot_a0a6cc96-51f6-46d0-a348-422f81ebab05" title="TestNG" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" title="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40"/>
 </p>
 
 ---
@@ -38,10 +31,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronak010325&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak010325&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak010325&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronak010325&theme=github_dark" alt="Ronak's GitHub Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronak010325&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronak010325&theme=github_dark&utcOffset=+5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronak010325&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronak010325&theme=github_dark" />
 </p>
 
 ---
