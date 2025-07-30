@@ -53,7 +53,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ronak-yadav-9b77462b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/RonakYadav1325/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:ronakyadav1325@gmail.com">
