@@ -22,7 +22,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" title="Selenium" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/testng/testng_64x64.png" title="TestNG" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Testng-logo.png" title="TestNG" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" title="Jira" width="40" height="40"/>&nbsp;
