@@ -41,10 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ronak010325&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak010325&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -53,10 +49,10 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/ronak-yadav-9b77462b2/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ronakyadav1325@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
