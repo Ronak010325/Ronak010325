@@ -18,17 +18,18 @@
 
 ### 🧰 My Tech Stack
 
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logo.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/T/testng-logo-4695B451EE-seeklogo.com.png" alt="TestNG" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_alt_macos_bigsur_icon_189290.png" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" title="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/T/testng-logo-4695B451EE-seeklogo.com.png" title="TestNG" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" title="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40"/>
 </p>
 
 ---
@@ -40,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak010325&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak010325&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
