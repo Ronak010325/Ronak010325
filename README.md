@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fresher Automation Tester | Test Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20%7C%20Selenium%20%7C%20TestNG%20%7C%20Jira%20%7C%20GitHub%20%7C%20SQL%20%7C%20Postman%20%7C%20Docker%20%7C%20Jenkins;Always%20Learning%20New%20Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Selenium+%7C+TestNG+%7C+Postman;Jira+%7C+GitHub+%7C+SQL+%7C+Docker+%7C+Jenkins" alt="Typing SVG" />
 </p>
 
 ---
