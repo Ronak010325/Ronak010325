@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgresql,html,css,bootstrap,js,nodejs,express,git,github,docker,jenkins" />
   <img src="https://plugins.jetbrains.com/files/21606/screenshot_a0a6cc96-51f6-46d0-a348-422f81ebab05" title="TestNG" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" title="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://rest-assured.io/img/logo-transparent.png" title="Rest Assured" width="40" height="40"/>&nbsp;
 </p>
 
 ---
