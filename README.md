@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 💻 I’m a **fresher Software Automation Tester** with a strong foundation in test automation frameworks and tools.
+- 💻 I’m a **Software Automation Tester** with a strong foundation in test automation frameworks and tools.
 - 🛠 Skilled in writing **robust, reusable, and maintainable test scripts** using Selenium and Java.
 - 🚀 Eager to grow in a **fast-paced agile environment** and contribute to high-quality product delivery.
 - 📚 Constantly exploring best practices in QA, CI/CD, and bug tracking.
