@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronak Yadav</h1>
-<h3 align="center">A Passionate Fresher Automation Tester | Test Automation Enthusiast</h3>
+<h3 align="center">A Passionate Automation Tester | Test Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Selenium+%7C+TestNG+%7C+Postman;Jira+%7C+GitHub+%7C+SQL+%7C+Docker+%7C+Jenkins" alt="Typing SVG" />
