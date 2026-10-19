@@ -39,10 +39,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronak010325&theme=github_dark" alt="Ronak's GitHub Summary" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronak010325&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronak010325&theme=github_dark&utcOffset=+5.5" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronak010325&theme=github_dark" />
